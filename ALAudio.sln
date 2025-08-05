@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALAudio", "ALAudio\ALAudio.vcxproj", "{ED91DA87-8E03-43D1-ABCD-A29B397DA08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED91DA87-8E03-43D1-ABCD-A29B397DA08B}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED91DA87-8E03-43D1-ABCD-A29B397DA08B}.Debug|x86.Build.0 = Debug|Win32
+		{ED91DA87-8E03-43D1-ABCD-A29B397DA08B}.Release|x86.ActiveCfg = Release|Win32
+		{ED91DA87-8E03-43D1-ABCD-A29B397DA08B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9E7853-37E8-4BE4-9C3E-63093CC31AA2}
+	EndGlobalSection
+EndGlobal
